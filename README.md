@@ -1,2 +1,2 @@
-# -My-Spring-Project
-banking  application
+# My-Spring-Project
+ banking  application with elementary operations
